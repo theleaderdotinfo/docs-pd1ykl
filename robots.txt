@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ymsx1f.pulaucuan.org/sitemap.xml
